@@ -1,6 +1,6 @@
 # Hotel Review Search API (Flask)
 
-Simple backend API for hotel search and sorting by review average.
+Simple backend API for hotel search and sorting by review average. I worked with classes for scalability - I normally just work with endpoint and a function. No commits available because I was not available the weekend this task was sent. I just published at once.
 
 ## Requirements
 
